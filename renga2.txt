@@ -1,1 +1,2 @@
 renga@.txt is created
+and now it is modified
